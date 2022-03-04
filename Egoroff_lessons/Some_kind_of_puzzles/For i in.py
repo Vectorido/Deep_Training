@@ -1,0 +1,1 @@
+print(sum(map(lambda x: x**3, range(50, 101))))

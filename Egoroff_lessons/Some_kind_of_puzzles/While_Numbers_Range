@@ -1,0 +1,10 @@
+a, b = int(input()), int(input())
+
+while a != b + 1:
+    if a // 2 == 0 or a // 3 == 0:
+        continue
+    if a % 777 == 0:
+        break
+    else:
+        print(a)
+    a += 1
