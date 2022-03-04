@@ -1,2 +1,2 @@
 # Deep_Training
-Here is you can see my education way and code from courses.
+You can see here my education way and code from courses.
