@@ -1,2 +1,2 @@
 # Lessons from python courses
-You can see here my education way and code from courses.
+<h2>You can see here my education way and some lessons from courses. In other words, this is example of my code</h2>
